@@ -19,7 +19,4 @@ This app extension scans the webpage's content and censors any vulgar/offensive 
 
 
 <img src="illustration/censored.png" width="600px">
-<<<<<<< HEAD
 
-=======
->>>>>>> 98bd7b5 (commit)
