@@ -3,6 +3,14 @@
         "name": "Profanity Detection",
         "description": "This extension censores vulgar and offensive words.",
         "version": "1.0",
+        "icons": {
+            "128": "PCicon.png"
+        },
+        "browser_action": {
+            "default_icon": "PCicon.png",
+            "default_popup": "popup.html",
+            "default_title": "Profanity Detection"
+            },
         "content_scripts": [
             {
                 "matches": [
