@@ -9,6 +9,14 @@ This app extension scans the webpage's content and censores any vulgar/offensive
 4. Click "Load unpacked extension.." and select the folder
 5. Run the extension
 ##Photos
-![1]()
-![2]()
-![3]()
+<img src="illustration/extension.png" width="800px">
+
+
+<img src="illustration/extensionIcon.png" width="300px">
+
+
+<img src="illustration/webscreenshot.png" width="550px">
+
+
+<img src="illustration/censored.png" width="600px">
+
