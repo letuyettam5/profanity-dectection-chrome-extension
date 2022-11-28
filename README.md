@@ -1,7 +1,7 @@
 # profanity-dectection-chrome-extension
 A Chrome extension that detects vulgar/offensive words and censors them.
 ## About
-This app extension scans the webpage's content and censores any vulgar/offensive word by altering the page's source code. The add-on makes users'experience is made safer on the Internet.
+This app extension scans the webpage's content and censors any vulgar/offensive word by altering the page's source code. The add-on makes users'experience is made safer on the Internet.
 ## Installation
 1. Clone or download this repository into a folder
 2. Go to chrome://extensions/
@@ -19,4 +19,7 @@ This app extension scans the webpage's content and censores any vulgar/offensive
 
 
 <img src="illustration/censored.png" width="600px">
+<<<<<<< HEAD
 
+=======
+>>>>>>> 98bd7b5 (commit)

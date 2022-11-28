@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
         "name": "Profanity Detection",
-        "description": "This extension censores vulgar and offensive words.",
+        "description": "This extension censors vulgar and offensive words.",
         "version": "1.0",
         "icons": {
             "128": "PCicon.png"
